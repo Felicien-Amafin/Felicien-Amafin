@@ -1,44 +1,72 @@
-# 👋 Hi, I’m Felicien Amafin
-So far I've learnt programming by my self.
-- 👀 I’m interested in Front-End web developement and all technologies that are part of Javascript ecosystem.
-- 🌱 By the way i'm currently learning React
-- 📫 How to reach me: felicien2@gmail.com
-<br/>
+# 👋 Salut, moi c’est Félicien Amafin
 
-## My current stack :
-<br/>
+💻 **Développeur Full Stack JavaScript** passionné par la création d’expériences web modernes, performantes et élégantes.  
+J’aime transformer des idées en projets concrets, en alliant **technologie, design et logique produit**.
 
-<div>
-<img align="left" alt="Javascript" width="30px" style="padding right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  
+---
 
-<img align="left" alt="Javascript" width="30px" style="padding right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"> 
+## 🚀 À propos de moi
 
-<img align="left" alt="Javascript" width="30px" style="padding right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"> 
+🎯 J’aime concevoir des applications web **de bout en bout**, du design d’interface à l’architecture backend.  
+🧩 J’accorde une attention particulière à la **structure du code**, à la **performance** et à la **sécurité**.  
+📍 Basé en France, je suis actuellement ouvert à des **opportunités professionnelles** ou collaborations tech créatives.
 
-<img align="left" alt="Javascript" width="30px" style="padding right:400px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"> 
+---
 
-<img align="left" alt="Javascript" width="30px" style="padding right:400px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">  
-</div> 
+## 🛠️ Stack technique
 
-<br/>
-<br/>
+### Frontend
+- ⚛️ **React / Next.js**
+- 🎨 **CSS Modules**
 
-## Some samples of my work:
+### Backend
+- 🧰 **Node.js / Express**
+- 🗄️ **MongoDB / Mongoose**
+- 🔐 **JWT, bcrypt, validation des données**
 
-<br/>
+### Outils & autres
+- 🔧 **Git / GitHub / Render / Vercel**
+- ☁️ **APIs (Gemini, Unsplash, etc.)**
+- 🧠 **Gestion de projets**
 
-Image search app using Vanilla Js. Link: https://pixavenue-cf23c.firebaseapp.com/
+---
 
-<br/>
+## 🌐 Projets récents
 
-![pixavenue11](https://github.com/user-attachments/assets/1fb4becd-2ccd-4ad9-a800-e86e195f8076)
+### 🧩 [AI Chat](https://ai-chat-frontend-0g4l.onrender.com/)
+💬 Application de chat avec **IA intégrée (Gemini API)**, gestion sécurisée des utilisateurs et catégories de discussion.  
+📁 [Code source](https://github.com/Felicien-Amafin/AI-chat)
 
-![Capture12](https://github.com/user-attachments/assets/56fabd3a-5e4a-40bb-89a7-f1dacd66a543)
+### 🖼️ [Pixavenue](https://pixavenue-client-s9kj.onrender.com/)
+🪄 Plateforme de **recherche, téléchargement et organisation d’images**, connectée à l’API Unsplash.  
+📁 [Code source](https://github.com/Felicien-Amafin/pixAvenue)
 
-![pixavenue9](https://github.com/user-attachments/assets/f435c11b-cfb0-4888-af45-e49247ac6540)
+> 👉 Ces projets sont également visibles sur mon **[portfolio en ligne](https://www.felicien-amafin.fr)**
+
+---
+
+## 🧭 Ce que je recherche
+
+Je suis toujours à la recherche de **nouvelles collaborations** ou **missions stimulantes** dans :
+- le développement web (frontend ou full stack),
+- les applications interactives,
+- et les produits à forte valeur ajoutée UX/UI.
+
+---
+
+## 📫 Me contacter
+
+📩 **contact@felicien-amafin.fr**  
+🌍 [Portfolio](https://www.felicien-amafin.fr)  
+
+---
+
+## ⚖️ Licence
+Les projets publiés sur ce profil sont sous licence **CC BY-NC-ND 4.0**  
+> Utilisation, modification ou diffusion interdites sans autorisation préalable.
+
+---
+
+✨ *Merci pour votre visite !*  
 
 
-<!---
-Felicien-Amafin/Felicien-Amafin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
